@@ -1,1 +1,1 @@
-# ide-morphlang
+# atom-ide-morph
